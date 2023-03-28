@@ -155,7 +155,7 @@ Los primeros pasos son para crear un repositorio nuevo, nosotros ya creamos el n
 
 ```sh
 # Este comando agrega la relacion del repositorio de Github con nuestro repositorio local.
-git remote add origin https://github.com/ushieru/Java-helloworld.git
+git remote add origin https://github.com/**<user>**/Java-helloworld.git
 # Este comando le da nombre a la rama en la que vamos a trabajar
 git branch -M main
 # Este comando empuja los cambios a Github
